@@ -16,7 +16,7 @@
 <br>迁移学习示意如下：
 <br><img width="400" alt="迁移学习结构" src="https://user-images.githubusercontent.com/48016042/167677374-46e06a3e-ab5b-476f-8909-1082fd321b9f.PNG"><img width="300" alt="迁移学习模型架构" src="https://user-images.githubusercontent.com/48016042/167677418-5929e604-9abd-456c-b392-fd8732f05022.PNG">
 
-* [图识垃圾小论文](https://maifile.cn/pdf/a76204155001.pdf)
+* [图识垃圾小论文]
 <br><br>
 另外，图识垃圾微信小程序（科创项目demo）如下，可提供文本、语音、图像查询生活垃圾分类，用户交互界面显示的垃圾细分条目由百度识图（通用场景及物体识别）API提供技术辅助，另外本项目训练的modelC生活垃圾图像分类模型也上载在微信小程序云端，同步调用实现双保险。
 <br><img width="160" alt="图识垃圾小程序二维码"  src="https://user-images.githubusercontent.com/48016042/167683191-18878366-75b1-4d57-9ea0-3e9ad41e02ce.png">
